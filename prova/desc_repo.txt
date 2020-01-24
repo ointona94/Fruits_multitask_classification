@@ -1,1 +1,0 @@
-Fruits classified according to freshness (rot / fresh) and type
